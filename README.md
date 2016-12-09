@@ -21,4 +21,4 @@ These overlays shows many things. How many dots are left, if the red ghost is in
 [Understanding Ghost Behaviors](http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior)
 
 #####Why is there only one file?
-I cannot redistribute the emulator and cannot legally distribute the ROM (the game rip) of PacMan. You can easily find this 'ROM' by performing a search. Be sure that you own the game before you do this. [eBay](http://www.ebay.com/sch/i.html?_nkw=pacman+nes)
+I cannot redistribute the emulator and cannot legally distribute the ROM (the game rip) of PacMan. You can easily find this 'ROM' by performing a search. Be sure that you own the game before you do this. [eBay](http://www.ebay.com/sch/i.html?_nkw=pacman+nes). "Pac-Man (USA) (Namco).nes"
