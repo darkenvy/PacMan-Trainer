@@ -1,6 +1,9 @@
 #PACMAN Trainer
 Become a pro at PacMan
 
+###What is this?
+The Pacman Trainer is a tool that helps you play Pacman. This tool visualizes the ghost's real target *(surprise, it's not Pacman directly!)* as well as provides a few other tips such as dots remaining, cruise-elroy mode and seconds remaining in power mode.
+
 ![Demonsration of Visualization](https://puu.sh/sJM2s/fee0d20cf7.gif)
 *Orange Squares are ghost's targets*
 
